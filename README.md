@@ -1,36 +1,31 @@
 # arduino_iot
 
-Uno+WiFi R3 AtMega328p+NodeMSU ESP8266 8mb Memory USB-TTL CH340G real life programming including real time analysis of sensors data.
+Uno+WiFi R3 AtMega328p+NodeMSU ESP8266 8mb Memory USB-TTL CH340G real-life programming, including real-time analysis of sensor data.
 
-This is not general Arduino UNO board. This board is a development board with ESP8266 and Atmega processors. So pin system and serial input pin is little different. Also it has DIP switches.
+This repository contains code and resources for working with the Uno+WiFi R3 AtMega328p+NodeMSU ESP8266 board. This board is a development board with ESP8266 and Atmega processors, offering unique pin configurations and a serial input pin. It also includes DIP switches for specific settings.
 
-Kindly check the links below
+Please refer to the following links for more information:
 
-https://www.amazon.in/REES52-R3-AtMega328p-Arduino-UNO/dp/B0B8VXWRPY
-https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/
+- [Amazon Listing](https://www.amazon.in/REES52-R3-AtMega328p-Arduino-UNO/dp/B0B8VXWRPY)
+- [ESP8266 WiFi Transceiver Review](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/)
 
+## Board and Sensor Connection Images
 
-### Board and sensor connection images
+![Board](https://github.com/dhirajpatra/arduino_iot/raw/main/img1.jpg)
+![Board](https://github.com/dhirajpatra/arduino_iot/raw/main/img2.jpg)
+![DHT11](https://github.com/dhirajpatra/arduino_iot/raw/main/img3.jpg)
 
-![board](https://github.com/dhirajpatra/arduino_iot/blob/main/img1.jpg)
-![board](https://github.com/dhirajpatra/arduino_iot/blob/main/img2.jpg)
-![dht11](https://github.com/dhirajpatra/arduino_iot/blob/main/img3.jpg)
+## DIP Switches
 
+Please ensure the following DIP switch settings:
 
-### DIP switches
+- Keep switches 5, 6, and 7 on while uploading code to the board.
+- Keep only switches 5 and 6 on while executing the code.
 
-Keep 5,6,7 on while uploading to board.
+# Arduino Libraries
 
-Keep only 5,6 on while executing.
+Make sure to install and include the required libraries according to the import statements in your code.
 
-# arduino lib
+## Read More
 
-You have to install and add the lib as per the import of the file.
-
-
-### Read more
-
-https://medium.com/@dhirajpatra/iot-real-time-data-analysis-ec7178393295
-
-
-
+For more detailed information and insights, you can refer to my Medium article on [IoT Real-Time Data Analysis](https://medium.com/@dhirajpatra/iot-real-time-data-analysis-ec7178393295).
