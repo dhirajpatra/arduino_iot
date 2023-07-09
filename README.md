@@ -11,9 +11,9 @@ Please refer to the following links for more information:
 
 ## Board and Sensor Connection Images
 
-![Board](https://github.com/dhirajpatra/arduino_iot/raw/main/img1.jpg)
-![Board](https://github.com/dhirajpatra/arduino_iot/raw/main/img2.jpg)
-![DHT11](https://github.com/dhirajpatra/arduino_iot/raw/main/img3.jpg)
+![Board](https://github.com/dhirajpatra/arduino_iot/raw/main/img1.jpeg)
+![Board](https://github.com/dhirajpatra/arduino_iot/raw/main/img2.jpeg)
+![DHT11](https://github.com/dhirajpatra/arduino_iot/raw/main/img3.jpeg)
 
 ## DIP Switches
 
