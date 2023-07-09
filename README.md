@@ -23,8 +23,14 @@ Keep 5,6,7 on while uploading to board.
 
 Keep only 5,6 on while executing.
 
+# arduino lib
+
+You have to install and add the lib as per the import of the file.
+
 
 ### Read more
 
 https://medium.com/@dhirajpatra/iot-real-time-data-analysis-ec7178393295
+
+
 
