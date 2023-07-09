@@ -12,9 +12,9 @@ https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-re
 
 ### Board and sensor connection images
 
-![board](img1.jpg)
-![board](img2.jpg)
-![dht11](img3.jpg)
+![board](/img1.jpg)
+![board](/img2.jpg)
+![dht11](/img3.jpg)
 
 
 ### DIP switches
