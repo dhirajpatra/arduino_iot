@@ -6,8 +6,8 @@
 #include <ESP8266WiFi.h>
 
 #ifndef STASSID
-#define STASSID "your wifi username"
-#define STAPSK "your wifi password"
+#define STASSID "sontywifi"
+#define STAPSK "Tanusree@123"
 #endif
 
 const char* ssid = STASSID;

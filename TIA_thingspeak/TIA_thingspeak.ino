@@ -1,12 +1,12 @@
 #include <ESP8266WiFi.h> // header file for nodemcu
 #include "DHT.h"         // header file for DHT sensor
 
-const char* ssid = "your wifi username"; //write your ssid
-const char* password = "your wifi password";//write your password
+const char* ssid = "sontywifi"; //write your ssid
+const char* password = "Tanusree@123";//write your password
 
 const char* host = "api.thingspeak.com"; // this is the server name
 
-const char* THINGSPEAK_API_KEY = "your write api_key "; // //  Enter your Write API key from ThingSpeak
+const char* THINGSPEAK_API_KEY = "XOTRJC5CUO6WHYL0"; // //  Enter your Write API key from ThingSpeak
 
 #define DHTPIN 12         //pin where the dht11 is connected GPIO12
  DHT dht(DHTPIN, DHT11); // creating object of DHT type
