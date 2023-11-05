@@ -6,7 +6,7 @@ This repository contains code and resources for working with the Uno+WiFi R3 AtM
 
 Please refer to the following links for more information:
 
-- [Tutorial and other related articles] (https://dhirajpatra.blogspot.com/search?q=arduino)
+- [Tutorial and other related articles](https://dhirajpatra.blogspot.com/search?q=arduino)
 - [Amazon Listing](https://www.amazon.in/REES52-R3-AtMega328p-Arduino-UNO/dp/B0B8VXWRPY)
 - [ESP8266 WiFi Transceiver Review](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/)
 
